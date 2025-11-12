@@ -12,6 +12,8 @@ https://github.com/raghad-abbas/survey-core/blob/main/WhatsApp%20Image%202025-11
 | Documentation Lead | Alaa Husam |
 | Meeting Coordinator | Soad Alastal |
 | Tester | Shahed Hassan |
+
+
 👩‍💻 Roles & Responsibilities
 Repository Manager Manages the GitHub repository, organizes branches, handles merges, and ensures version control is smooth and secure.
 
@@ -22,6 +24,7 @@ Documentation Lead Writes and maintains technical and user documentation. Ensure
 Meeting Coordinator Schedules and facilitates team meetings, prepares agendas, and shares summaries to keep everyone aligned.
 
 Tester Conducts manual and automated testing to detect bugs and verify functionality. Ensures the product is stable and reliable.
+
 
 🌍 Team Vision (by : team )
 We aim to build modern, efficient, and user-centered Kotlin projects.
@@ -34,11 +37,15 @@ Producing a professional software project that reflects the team's creativity.
 Maintaining fair and organized deadlines for each task.
 Sharing knowledge and experiences to support ongoing learning.
 Stimulating innovation in software design.
+
+
 💬 Communication Rules (by : Soad Alastal )
 Platforms: Slack & WhatsApp for coordination.
 Weekly Meeting: Every Saturday at 12:00 PM.
 Everyone shares weekly progress updates.
 Communication should always be clear, positive, and respectful.
+
+
 💻 Coding Standards (by : Shahed Musallm )
 To ensure consistency, readability, and maintainability across the project, all team members must follow these coding standards:
 
@@ -49,6 +56,8 @@ Avoid code duplication — follow the DRY principle (Don't Repeat Yourself).
 Write modular code: break logic into reusable functions and classes.
 Include comments only when necessary to explain complex logic.
 Handle exceptions properly using try-catch blocks and meaningful error message
+
+
 🌿 Git Branching Strategy
 Survey-Core uses a clear Git branching strategy to organize teamwork and ensure safe development:
 
@@ -58,6 +67,8 @@ feature/[name]: For new features
 bugfix/[name]: For fixing bugs
 docs: For documentation updates
 hotfix/[name]: For urgent fixes to production All changes must go through Pull Requests and be reviewed before merging.
+
+
 💎 Team Values (by :Shahed Hassan)
 • Collaboration and Communication We work collaboratively and maintain constant communication to ensure code consistency and shared understanding.
 
